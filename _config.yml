@@ -1,8 +1,9 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+#    Weibo: http://weibo.com/sunchongsheng
+    GitHub: https://github.com/duament
+    About: /about/
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -10,7 +11,7 @@ logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus:
+disqus: duament-github-io
 duoshuo:
 
 # Analytics
@@ -18,4 +19,7 @@ duoshuo:
 # ga: UA-xxxxxxxx-x
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2018
+
+mathjax:
+  enable: true
